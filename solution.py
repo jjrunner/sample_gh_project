@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 
-## Filenames
+## These are the possible datasets currently available to analyze
 chicago = 'chicago.csv'
 new_york_city = 'new-york-city.csv'
 washington = 'washington.csv'
